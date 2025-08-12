@@ -68,7 +68,7 @@ Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e 
 > - [Como criar backlogs no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
+## Ferramentas
 
 > ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
